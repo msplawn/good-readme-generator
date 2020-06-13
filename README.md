@@ -12,7 +12,7 @@
   * [Questions](#questions)
   
   # Installation
-  Download the zip and navigate to your terminal to run npm instal
+  Download the zip and navigate to your terminal to run npm install.
 
   # Usage
   In your terminal navigate to your project's folder then type 'node index.js'
