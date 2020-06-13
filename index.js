@@ -27,12 +27,12 @@ const questions = [
         },
         {
             type: "checkbox",
-            message: 'Select your licenses.',
+            message: 'Select your license.',
             name: 'license',
             choices: [
                 "Apache",
                 "MIT",
-                "GNU GPLv3",
+                "GNU-GPLv3",
                 "ISC"
             ]
         },
