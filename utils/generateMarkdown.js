@@ -1,16 +1,4 @@
-// function to generate markdown for README
-
-// var licenceLink;
-// var licenceIMG;
 function generateMarkdown(data) {
-//   switch(data.license)  {
-//     case "Apache":
-//       licenceIMG = 'https://img.shields.io/badge/License-Apache%202.0-blue.svg';
-//       licenceLink = 'https://opensource.org/licenses/Apache-2.0';
-//     case "MIT":
-//       licenceIMG = 'https://img.shields.io/badge/License-MIT-yellow.svg';
-//       licenceLink = 'https://opensource.org/licenses/MIT';
-//   }
 
   return `# **${data.title}**                 [![License](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://opensource.org/licenses/${data.license})
 
