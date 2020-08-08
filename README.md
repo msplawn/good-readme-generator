@@ -3,6 +3,9 @@
   # Project Description
   A simple commandline application for generating quality, well formatted readme files.
 
+  # Screencap
+  ![Screen](./utils/assets/readmegen.png)
+
   # Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
